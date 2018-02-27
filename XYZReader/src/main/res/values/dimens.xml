@@ -7,4 +7,5 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="Appbar_elevation">4dp</dimen>
+    <dimen name="NestedScrollView_margin">16dp</dimen>
 </resources>

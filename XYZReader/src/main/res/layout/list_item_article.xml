@@ -30,7 +30,7 @@
             android:paddingLeft="16dp"
             android:paddingTop="16dp"
             android:paddingRight="16dp"
-            android:textColor="#000000"
+            android:textColor="@color/article_title_color"
             android:ellipsize="end"
             android:maxLines="1" />
 
@@ -42,7 +42,7 @@
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="16dp"
-            android:textColor="#474747"
+            android:textColor="@color/article_subtitle_color"
             android:maxLines="2"
             android:ellipsize="end" />
     </LinearLayout>
