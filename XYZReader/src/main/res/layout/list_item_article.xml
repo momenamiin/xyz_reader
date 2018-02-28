@@ -5,7 +5,6 @@
     android:clickable="true"
     android:layout_margin="4dp"
     android:focusable="true"
-    android:elevation="@dimen/cardview_default_elevation"
     android:foreground="?selectableItemBackground">
 
     <LinearLayout
